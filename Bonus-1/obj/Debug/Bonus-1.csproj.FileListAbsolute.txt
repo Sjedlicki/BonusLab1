@@ -1,0 +1,7 @@
+C:\Users\JediD\source\repos\Bonus-1\Bonus-1\obj\Debug\Bonus-1.csprojAssemblyReference.cache
+C:\Users\JediD\source\repos\Bonus-1\Bonus-1\obj\Debug\Bonus-1.csproj.CoreCompileInputs.cache
+C:\Users\JediD\source\repos\Bonus-1\Bonus-1\bin\Debug\Bonus-1.exe.config
+C:\Users\JediD\source\repos\Bonus-1\Bonus-1\bin\Debug\Bonus-1.exe
+C:\Users\JediD\source\repos\Bonus-1\Bonus-1\bin\Debug\Bonus-1.pdb
+C:\Users\JediD\source\repos\Bonus-1\Bonus-1\obj\Debug\Bonus-1.exe
+C:\Users\JediD\source\repos\Bonus-1\Bonus-1\obj\Debug\Bonus-1.pdb
